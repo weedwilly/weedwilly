@@ -1,0 +1,11 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+
+driver = webdriver.Chrome()
+driver.get("https://800a.ndmctsgh.edu.tw/login")  # 步驟1
+
+input("請登入後按 Enter 繼續...")  # 步驟2，人為操作可暫停腳本
+
+driver.find_element(By.LINK_TEXT, "醫學資料庫").click()  # 步驟3-1
+driver.find_element(By.PARTIAL_LINK_TEXT, "OVID-medline").click()  # 步驟3-2
