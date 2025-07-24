@@ -25,6 +25,7 @@ Nice to meet you👋
   
   [BSL](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/R.%20Byron%20Bird,%20Warren%20E.%20Stewart,%20Edwin%20N.%20Lightfoot%20-%20Transport%20Phenomena,%202nd%20Edition-Wiley%20(2001).pdf) 
   [3W](http://www.download.polympart.ir/polympart/ebook/Fundamentals-of-Momentum-Heat-and-Mass-Transfer.pdf)
+  [Coulson](https://uodiyala.edu.iq/uploads/PDF%20ELIBRARY%20UODIYALA/EL94/Coulson%20&%20Richardson's%20Chemical%20Engineering%20-%20Volume%20II.pdf)
   </li>
 <li>English 🔠 </li>
 </ul>
