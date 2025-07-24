@@ -1,11 +1,11 @@
-## Hi 👋
+# Hi 👋
 I'm *<b>weedwilly</b>*!🍁 
 
 I'm a noob and just start to learn coding.🐵 
 
 Nice to meet you👋 
 
-🎮Games ID : 
+# 🎮Games ID : 
 <ul>
 <li>Discord🕹️ <b><i>weed_tw</i></b> </li>
 <li>Mole🐹 <b><i>We-ed 24378672</i></b> </li>
@@ -13,7 +13,7 @@ Nice to meet you👋
 <li>CR⚔️ <b><i>Weed</i></b> </li>
 </ul>
 
-💻Code Learning :
+# 💻Code Learning :
 <ul>
 <li><a href="https://www.w3schools.com/">w3Schools</a></li>
 <li>Markdown</li>
@@ -26,7 +26,7 @@ Nice to meet you👋
 <li>Tampermonkey</li>
 </ul>
 
-📚Recently Studing :  
+# 📚Recently Studing :  
 <ul>
 <li>Engineering Mathematics 🔢  
   
@@ -48,7 +48,7 @@ Nice to meet you👋
 <li>English 🔠 </li>
 </ul>
 
-✍️Test :
+# ✍️Test :
 <ul>
 <li>NTU  
   
@@ -60,7 +60,7 @@ Nice to meet you👋
 </li>
 </ul>
 
-📘Fun Stories :
+# 📘Fun Stories :
 <ul>
 <li>Factory  
   
