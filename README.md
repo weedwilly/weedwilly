@@ -1,3 +1,5 @@
+<p align="left"><img src="https://raw.githubusercontent.com/weedwilly/weedwilly/main/github-metrics.svg" /></p>
+
 # <h1 align="center">Aloha 👋<h1>
 I'm *<b>weedwilly</b>*!🍁 
 
