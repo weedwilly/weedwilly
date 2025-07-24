@@ -14,7 +14,7 @@ Nice to meet you👋
 
 💻Code Learning :
 <ul>
-<li>[w3schools](https://www.w3schools.com) </li>
+<li>[W3schools](https://www.w3schools.com/)</li>
 <li>Markdown</li>
 <li>HTML</li>
 <li>Javascript</li>
