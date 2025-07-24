@@ -2,10 +2,10 @@
 
 ![](https://view-counter.tobyhagan.com/?user=weedwilly&base=00ffff&accent=3c3c3c&icon=true)
 
-# <h1 align="center">Aloha 👋<h1>
+# <h1 align="center"> Hello world 👋 <h1>
 I'm *<b>weedwilly</b>*!🍁 
 
-I'm a 20-year-old noob and just start to learn coding.🐵 
+20 and noob vibe coder.🐵 
 
 Nice to meet you👋 
 
