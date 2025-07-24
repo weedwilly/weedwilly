@@ -7,9 +7,10 @@ Nice to meet you👋
 
 🎮Games ID : 
 <ul>
+<li>Discord🕹️ <b><i>weed_tw</i></b> </li>
 <li>Mole🐹 <b><i>We-ed 24378672</i></b> </li>
 <li>AOV📱 <b><i><a>Weed</a></i></b> </li>
-<li>CR🫅 <b><i>Weed</i></b> </li>
+<li>CR⚔️ <b><i>Weed</i></b> </li>
 </ul>
 
 💻Code Learning :
