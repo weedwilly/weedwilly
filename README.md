@@ -17,6 +17,7 @@ Nice to meet you👋
 <li>Markdown</li>
 <li>HTML</li>
 <li>Javascript</li>
+<li>Python</li>
 </ul>
 
 📚Recently Studing :  
