@@ -34,6 +34,15 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 <li>Tampermonkey</li>
 </ul>
 
+# 📊Algorithm Learning :
+<ul>
+<li> Desision Tree </li>
+<li> Markov chain </li>
+<li> Monte Carlo </li>
+<li> Meta-learniig </li>
+<li> Transformer </li>
+</ul>
+
 # 📚Recently Studing :  
 <ul>
 <li>Engineering Mathematics 🔢  
