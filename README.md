@@ -1,5 +1,7 @@
 <p align="left"><img src="https://raw.githubusercontent.com/weedwilly/weedwilly/main/github-metrics.svg" /></p>
 
+![](https://view-counter.tobyhagan.com/?user=weedwilly&base=00ffff&accent=3c3c3c&icon=true)
+
 # <h1 align="center">Aloha 👋<h1>
 I'm *<b>weedwilly</b>*!🍁 
 
