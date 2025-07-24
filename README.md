@@ -20,6 +20,7 @@ Nice to meet you👋
 <li>Chemical Engineering Therodynamics & Chemical Reaction Engineering 🔥  
   
   [Smith](https://www.eng.uc.edu/~beaucag/Classes/ChEThermoBeaucage/J.M.%20Smith,%20Hendrick%20Van%20Ness,%20Michael%20Abbott,%20Mark%20Swihart%20-%20Introduction%20to%20Chemical%20Engineering%20Thermodynamics-McGraw-Hill%20Education%20(2018).pdf) 
+  [Fogler](https://madar-ju.com/storage/images/files/file_1738512988aIDiC.pdf)
   </li>
 <li>Transport Phenomenon & Unit Operation 🌊  
   
