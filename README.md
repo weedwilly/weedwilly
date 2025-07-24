@@ -11,7 +11,9 @@ Nice to meet you👋
 <li>AOV📱 <b><i><a>Weed</a></i></b> </li>
 <li>CR🫅 <b><i>Weed</i></b> </li>
 </ul>
-📚Recently Studing : 
+
+📚Recently Studing :  
+
 <ul>
 <li>Engineering Mathematics 🔢  
   
@@ -30,7 +32,7 @@ Nice to meet you👋
 <li>English 🔠 </li>
 </ul>
 
-✍️Test
+✍️Test :
 <ul>
 <li>NTU  
   
