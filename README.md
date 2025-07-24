@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm weedwilly!
-I just start to learn coding, Nice to meet you!
+<h2>I'm weedwilly!</h2>
+<h2>I just start to learn coding, Nice to meet you!</h2>
 <!--
 **weedwilly/weedwilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
