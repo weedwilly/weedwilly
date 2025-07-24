@@ -6,6 +6,7 @@ I'm a noob and just start to learn coding.🐵
 Nice to meet you👋 
 
 Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
+---
 # 🎮Games ID : 
 <ul>
 <li>Discord🕹️ <b><i>weed_tw</i></b> </li>
