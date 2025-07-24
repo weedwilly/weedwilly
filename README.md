@@ -53,3 +53,15 @@ Nice to meet you👋
   [NTHU](https://www.lib.nthu.edu.tw/library/department/ref/exam/e/che.html) 
 </li>
 </ul>
+
+📘Stories :
+<ul>
+<li>Factory  
+  
+  [Factory]((https://factoryfactoryfactory.net/)) 
+</li>
+<li>Grug Brain  
+  
+  [Grug Brain]((https://grugbrain.dev/)) 
+</li>
+</ul>
