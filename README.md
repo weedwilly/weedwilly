@@ -11,8 +11,7 @@ Nice to meet you👋
 <li>AOV📱 <b><i><a>Weed</a></i></b> </li>
 <li>CR🫅 <b><i>Weed</i></b> </li>
 </ul>
-  
-📖Recently Studing : 
+📚Recently Studing : 
 <ul>
 <li>Engineering Mathematics 🔢  
   
@@ -29,4 +28,12 @@ Nice to meet you👋
   [Coulson](https://uodiyala.edu.iq/uploads/PDF%20ELIBRARY%20UODIYALA/EL94/Coulson%20&%20Richardson's%20Chemical%20Engineering%20-%20Volume%20II.pdf)
   </li>
 <li>English 🔠 </li>
+</ul>
+
+✍️Test
+<ul>
+<li>NTU
+  [NTU]( https://exam.lib.ntu.edu.tw/graduate/term/131)</li>
+<li>NTHU
+  [NTHU](https://www.lib.nthu.edu.tw/library/department/ref/exam/e/che.html)</li>
 </ul>
