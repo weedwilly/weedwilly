@@ -12,7 +12,7 @@ Nice to meet you👋
 <li>CR🫅 <b><i>Weed</i></b> </li>
 </ul>
 
-💻Coding :
+💻Coding Learning :
 <ul>
 <li>Markdown</li>
 <li>HTML</li>
@@ -54,7 +54,7 @@ Nice to meet you👋
 </li>
 </ul>
 
-📘Stories :
+📘Fun Stories :
 <ul>
 <li>Factory  
   
