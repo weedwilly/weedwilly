@@ -7,9 +7,9 @@ Nice to meet you👋
 
 Games ID🎮 : 
 <ul>
-<li>Mole🐹 ***We-ed 24378672*** </li>
-<li>AOV📱 ***<a>Weed</a>*** </li>
-<li>CR🫅 ***Weed*** </li>
+<li>Mole🐹 <b><i>We-ed 24378672</i></b> </li>
+<li>AOV📱 <b><i><a>Weed</a></i></b> </li>
+<li>CR🫅 <b><i>Weed</i></b> </li>
 </ul>
   
 Recently Studing📖 : 
