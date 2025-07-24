@@ -62,6 +62,6 @@ Nice to meet you👋
 </li>
 <li>Grug Brain  
   
-  [Grug Brain](https://grugbrain.dev/))
+  [Grug Brain](https://grugbrain.dev/)
 </li>
 </ul>
