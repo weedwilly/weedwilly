@@ -1,4 +1,4 @@
-# Aloha 👋
+# <h1 align="center">Aloha 👋<h1>
 I'm *<b>weedwilly</b>*!🍁 
 
 I'm a noob and just start to learn coding.🐵 
