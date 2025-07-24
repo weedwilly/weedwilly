@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2>I'm weedwilly!</h2>
+<color=blue><h2>I'm weedwilly!</h2></a>
 <h2>I just start to learn coding, Nice to meet you!</h2>
 <!--
 **weedwilly/weedwilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
