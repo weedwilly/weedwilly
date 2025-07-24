@@ -1,4 +1,4 @@
-# Hi 👋
+# Aloha 👋
 I'm *<b>weedwilly</b>*!🍁 
 
 I'm a noob and just start to learn coding.🐵 
