@@ -12,12 +12,17 @@ Nice to meet you👋
 <li>CR🫅 <b><i>Weed</i></b> </li>
 </ul>
 
-💻Coding Learning :
+💻Code Learning :
 <ul>
+<li>[w3schools](https://www.w3schools.com) </li>
 <li>Markdown</li>
 <li>HTML</li>
 <li>Javascript</li>
 <li>Python</li>
+<li>VS</li>
+<li>R</li>
+<li>Selenium</li>
+<li>Tampermonkey</li>
 </ul>
 
 📚Recently Studing :  
