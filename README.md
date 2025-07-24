@@ -77,5 +77,5 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 </ul>
 ---
 <p align="center"><a href="https://github.com/Platane/snk">
-  <img align="center" src="https://raw.githubusercontent.com/weedwilly/weedwilly/output/dist/github-contribution-grid-snake-dark.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/weedwilly/weedwilly/output/github-contribution-grid-snake-dark.svg" />
 </a></p>
