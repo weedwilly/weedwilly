@@ -1,7 +1,7 @@
 # <h1 align="center">Aloha 👋<h1>
 I'm *<b>weedwilly</b>*!🍁 
 
-I'm a noob and just start to learn coding.🐵 
+I'm a 20-year-old noob and just start to learn coding.🐵 
 
 Nice to meet you👋 
 
