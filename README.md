@@ -58,10 +58,10 @@ Nice to meet you👋
 <ul>
 <li>Factory  
   
-  [Factory]((https://factoryfactoryfactory.net/)) 
+  [Factory](https://factoryfactoryfactory.net/) 
 </li>
 <li>Grug Brain  
   
-  [Grug Brain]((https://grugbrain.dev/)) 
+  [Grug Brain](https://grugbrain.dev/))
 </li>
 </ul>
