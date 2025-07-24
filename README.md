@@ -12,6 +12,7 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 <li>Mole🐹 <b><i>We-ed 24378672</i></b> </li>
 <li>AOV📱 <b><i><a>Weed</a></i></b> </li>
 <li>CR⚔️ <b><i>Weed</i></b> </li>
+<li>LOL🖥️ <b><i>шёёд</i></b> </li>
 </ul>
 
 # 💻Code Learning :
