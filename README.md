@@ -78,6 +78,17 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 </li>
 </ul>
 
+# Great Youtubers :
+<ul>
+<li><a href="https://www.youtube.com/@yuan_zi_neng">原子能</a>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+
+
 # 📘Fun Stories :
 <ul>
 <li>Factory  
