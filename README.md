@@ -78,7 +78,7 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 </li>
 </ul>
 
-# Great Youtubers :
+# 📺Great Youtubers :
 <ul>
 <li><a href="https://www.youtube.com/@papayaclass">PAPAYA 電腦教室</a>
 </li>
