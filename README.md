@@ -80,11 +80,9 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 
 # Great Youtubers :
 <ul>
+<li><a href="https://www.youtube.com/@papayaclass">PAPAYA 電腦教室</a>
+</li>
 <li><a href="https://www.youtube.com/@yuan_zi_neng">原子能</a>
-</li>
-<li>
-</li>
-<li>
 </li>
 </ul>
 
