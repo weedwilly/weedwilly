@@ -68,13 +68,9 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 
 # ✍️Test :
 <ul>
-<li>NTU  
-  
-  [NTU](https://exam.lib.ntu.edu.tw/graduate/term/131) 
+<li><a href="https://exam.lib.ntu.edu.tw/graduate/term/131">NTU</a>
 </li>
-<li>NTHU  
-  
-  [NTHU](https://www.lib.nthu.edu.tw/library/department/ref/exam/e/che.html) 
+<li><a href="https://www.lib.nthu.edu.tw/library/department/ref/exam/e/che.html">NTHU</a>
 </li>
 </ul>
 
@@ -89,8 +85,9 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 
 # 📘Fun Stories :
 <ul>
-<li><a= href="https://factoryfactoryfactory.net/">Factory</a>
-<li>[Grug Brain](https://grugbrain.dev/)
+<li><a href="https://factoryfactoryfactory.net/">Factory</a>
+</li>
+<li><a href="https://grugbrain.dev/">Grug Brain</a>
 </li>
 </ul>
 
