@@ -91,7 +91,7 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 </li>
 </ul>
 
-### 🌊 Fluid Animation Demo
+# 🌊Fluid Animation Demo
 <iframe src="https://weedwilly.github.io/fluid.html" width="420" height="420" frameborder="0"></iframe>
 
 <p align="center"><a href="https://github.com/Platane/snk">
