@@ -89,13 +89,8 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 
 # 📘Fun Stories :
 <ul>
-<li>Factory  
-  
-  [Factory](https://factoryfactoryfactory.net/) 
-</li>
-<li>Grug Brain  
-  
-  [Grug Brain](https://grugbrain.dev/)
+<li><a= href="https://factoryfactoryfactory.net/">Factory</a>
+<li>[Grug Brain](https://grugbrain.dev/)
 </li>
 </ul>
 
