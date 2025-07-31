@@ -5,7 +5,7 @@
 # <h1 align="center"> Hello world 👋 <h1>
 I'm *<b>weedwilly</b>*!🍁 
 
-Just a 20 noob vibe coder🐵 
+Just a 17 noob vibe coder🐵 
 
 Nice to meet you👋 
 
