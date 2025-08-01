@@ -31,6 +31,7 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 <li>Python</li>
 <li>VS</li>
 <li>R</li>
+<li>Matlab</li>
 <li>Selenium</li>
 <li>Tampermonkey</li>
 </ul>
