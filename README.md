@@ -27,6 +27,7 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 <li><a href="https://roadmap.sh/">roadmap</a></li>
 <li><a href="https://www.markdownguide.org/cheat-sheet/">Markdown</a></li>
 <li>HTML</li>
+<li>CSS</li>
 <li>Javascript</li>
 <li>Python</li>
 <li>VS</li>
