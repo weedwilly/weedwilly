@@ -11,14 +11,6 @@ Just a 17 noob vibe coder🐵
 Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 
 ---
-# 🎮Games ID : 
-<ul>
-<li>Discord🕹️ <b><i>weed_tw</i></b> </li>
-<li>Mole🐹 <b><i>We-ed 24378672</i></b> </li>
-<li>AOV📱 <b><i><a>Weed</a></i></b> </li>
-<li>CR⚔️ <b><i>Weed</i></b> </li>
-<li>LOL🖥️ <b><i>шёёд</i></b> </li>
-</ul>
 
 # 💻Code Learning :
 <ul>
@@ -75,7 +67,7 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 </li>
 </ul>
 
-# 📺Great Youtubers :
+# 📺Youtubers :
 <ul>
 <li><a href="https://www.youtube.com/@papayaclass">PAPAYA 電腦教室</a>
 </li>
@@ -90,6 +82,15 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 </li>
 <li><a href="https://grugbrain.dev/">Grug Brain</a>
 </li>
+</ul>
+
+# 🎮Games ID : 
+<ul>
+<li>Discord🕹️ <b><i>weed_tw</i></b> </li>
+<li>Mole🐹 <b><i>We-ed 24378672</i></b> </li>
+<li>AOV📱 <b><i><a>Weed</a></i></b> </li>
+<li>CR⚔️ <b><i>Weed</i></b> </li>
+<li>LOL🖥️ <b><i>шёёд</i></b> </li>
 </ul>
 
 <p align="center">
