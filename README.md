@@ -2,12 +2,11 @@
  
 ![](https://view-counter.tobyhagan.com/?user=weedwilly&base=00ffff&accent=3c3c3c&icon=true)
 
-# <h1 align="center"> Hello world 👋 <h1>
+
 I'm *<b>weedwilly</b>*!🍁 
 
 Just a 17 noob vibe coder🐵 
 
-Nice to meet you👋 
 
 Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 
