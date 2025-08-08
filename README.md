@@ -85,7 +85,7 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 </ul>
 
 
-# 📘Fun Stories :
+# 📘Dev Stories :
 <ul>
 <li><a href="https://factoryfactoryfactory.net/">Factory</a>
 </li>
