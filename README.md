@@ -92,13 +92,9 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 </li>
 </ul>
 
-# 🌊Fluid Animation Demo
-<ul>
-<li>
- [View Live Demo](https://weedwilly.github.io/fluid.html)
-A mesmerizing fluid dynamics visualization built with p5.js.
-</li>
-</ul>
+<p align="center">
+<img src="https://raw.githubusercontent.com/weedwilly/weedwilly.github.io/main/cat-typing.gif" alt="Typing Cat" width="200">
+</p>
 
 <p align="center"><a href="https://github.com/Platane/snk">
   <img align="center" src="https://raw.githubusercontent.com/weedwilly/weedwilly/output/github-contribution-grid-snake-dark.svg" />
