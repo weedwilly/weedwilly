@@ -5,7 +5,7 @@
 
 I'm *<b>weedwilly</b>*!🍁 
 
-Just a 17 noob vibe coder🐵 
+Just a 17 idiot🐵 
 
 
 Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
