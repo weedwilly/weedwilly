@@ -56,7 +56,6 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
   
   [Coulson](https://uodiyala.edu.iq/uploads/PDF%20ELIBRARY%20UODIYALA/EL94/Coulson%20&%20Richardson's%20Chemical%20Engineering%20-%20Volume%20II.pdf)
   </li>
-<li>English 🔠 </li>
 </ul>
 
 # ✍️Test :
