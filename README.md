@@ -21,13 +21,9 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 <li>CSS</li>
 <li>Javascript</li>
 <li>Python</li>
+<li>VS</li>
 <li>R</li>
 <li>Matlab</li>
-</ul>
-
-# 🛠️Tool Learning :
-<ul>
-<li>VS</li>
 <li>Selenium</li>
 <li>Tampermonkey</li>
 </ul>
