@@ -16,27 +16,6 @@ Just a 17 noob vibe coder🐵
 Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 
 ---
-
-# 💻Code Learning :
-<ul>
-<li><a href="https://www.w3schools.com/">w3Schools</a></li>
-<li><a href="https://roadmap.sh/">roadmap</a></li>
-<li><a href="https://www.markdownguide.org/cheat-sheet/">Markdown</a></li>
-<li>HTML</li>
-<li>CSS</li>
-<li>Javascript</li>
-<li>Python</li>
-<li>R</li>
-<li>Matlab</li>
-</ul>
-
-# 💻IDE Learning :
-<ul>
-<li>VS</li>
-<li>Selenium</li>
-<li>Tampermonkey</li>
-</ul>
-
 # 📊Algorithm Learning :
 <ul>
 <li> Desision Tree </li>
