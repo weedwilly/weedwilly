@@ -4,8 +4,6 @@
 
 ![weedwilly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weedwilly&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weedwilly&layout=compact&hide_border=true&theme=radical)
-
 ![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,vscode,python,matlab,r,selenium&perline=8)
 
 I'm *<b>weedwilly</b>*!🍁 
