@@ -4,8 +4,6 @@
 
 ![weedwilly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weedwilly&show_icons=true&theme=radical)
 
-![Languages and Tools](https://skillicons.dev/icons?i=github,vscode,python,matlab,r,selenium&perline=8)
-
 I'm *<b>weedwilly</b>*!🍁 
 
 Just a 17 noob vibe coder🐵 
