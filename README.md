@@ -1,6 +1,9 @@
 <p align="left"><img src="https://raw.githubusercontent.com/weedwilly/weedwilly/main/github-metrics.svg" /></p>
- ![weedwilly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weedwilly&show_icons=true&theme=radical)
+ 
 ![](https://view-counter.tobyhagan.com/?user=weedwilly&base=00ffff&accent=3c3c3c&icon=true)
+
+![weedwilly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weedwilly&show_icons=true&theme=radical)
+
 I'm *<b>weedwilly</b>*!🍁 
 
 Just a 17 noob vibe coder🐵 
