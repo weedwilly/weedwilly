@@ -6,8 +6,6 @@
 
 ![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,vscode,python,matlab,r,selenium&perline=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weedwilly&layout=compact&hide_border=true&theme=radical)
-
 I'm *<b>weedwilly</b>*!🍁 
 
 Just a 17 noob vibe coder🐵 
