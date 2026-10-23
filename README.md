@@ -23,7 +23,10 @@ Discount：[Perplexity](https://perplexity.ai/pro?referral_code=NTDQ2P84)
 <li> Monte Carlo </li>
 <li> Meta-learniig </li>
 <li> Transformer </li>
-</ul>  
+</ul>
+
+# 📚Recently Studing :  
+<ul>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/weedwilly/weedwilly.github.io/main/cat-typing.gif" alt="Typing Cat" width="200">
